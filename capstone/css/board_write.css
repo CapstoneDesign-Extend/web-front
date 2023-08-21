@@ -201,3 +201,13 @@ input[type="number"]::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
 }
+
+/*익명 여부 체크박스 추가 css */
+.checkbox_wrap {
+  width:78px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:14px;
+  height:28px;
+}
